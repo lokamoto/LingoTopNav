@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LingoProject TargetLanguage="zh-cn" xml:lang="zh-cn" SourceLanguage="en-us" FileFormatVersion="6" CreatedInVersion="11" flattenSnippets="false" SelectedTarget="" SourceControlBound="true" SourceControlProviderType="Git" ProjectGuid="281e2648-75d8-482a-9ca3-93259030905b">
+    <ProjectFile Source="Target/Top Nav Template1.flprj" Target="Target/Top Nav Template1.flprj" />
+    <TMConnection Connection="KeepThisone.db" ReadOnly="false" Type="StandAlone" />
+    <MTConnection Provider="MICROSOFT" />
+</LingoProject>
