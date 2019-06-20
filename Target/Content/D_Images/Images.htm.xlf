@@ -2,7 +2,7 @@
 <xliff
   version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
   xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-strict.xsd" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
-  MadCap:translationStatus="untranslated">
+  MadCap:translationStatus="completed">
   <file
     xml:space="preserve"
     original="Images.htm"
@@ -48,11 +48,15 @@
         phase-name="pretrans"><source>Images</source><seg-source><mrk
             mtype="seg"
             mid="1">Images</mrk></seg-source><target
-          state="needs-translation"><mrk
+          state="translated"><mrk
             mtype="seg"
             mid="1"
-            MadCap:segmentStatus="Untranslated"
-            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+            MadCap:segmentStatus="Accepted"
+            MadCap:matchPercent="0">图像</mrk></target><alt-trans
+          mid="1"
+          match-quality="0"
+          origin="MICROSOFT"><seg-source>Images</seg-source><target
+            MadCap:segmentStatus="Untranslated">图像</target></alt-trans></trans-unit><trans-unit
         id="2"
         restype="x-xml-p"
         phase-name="pretrans"><source>Here is a small image inline <ph
@@ -62,11 +66,21 @@
             mid="1">Here is a small image inline <ph
               id="1"
               ctype="image" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;img src="../Resources/Images/SaveButton.png" class="ReduceButtonSize" /&gt;</ph>.</mrk></seg-source><target
-          state="needs-translation"><mrk
+          state="translated"><mrk
             mtype="seg"
             mid="1"
-            MadCap:segmentStatus="Untranslated"
-            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+            MadCap:segmentStatus="Accepted"
+            MadCap:matchPercent="0">这是一个小图像内联。 <ph
+              id="1"
+              ctype="image" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;img src="../Resources/Images/SaveButton.png" class="ReduceButtonSize" /&gt;</ph></mrk></target><alt-trans
+          mid="1"
+          match-quality="0"
+          origin="MICROSOFT"><seg-source>Here is a small image inline <ph
+              id="1"
+              ctype="image" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;img src="../Resources/Images/SaveButton.png" class="ReduceButtonSize" /&gt;</ph>.</seg-source><target
+            MadCap:segmentStatus="Untranslated">这是一个小图像内联。 <ph
+              id="1"
+              ctype="image" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;img src="../Resources/Images/SaveButton.png" class="ReduceButtonSize" /&gt;</ph></target></alt-trans></trans-unit><trans-unit
         id="3"
         restype="x-xml-li"
         phase-name="pretrans"><source>Here is a cross-reference link: See <ph
@@ -74,11 +88,18 @@
             mtype="seg"
             mid="1">Here is a cross-reference link: See <ph
               id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:xref href="ThumbnailImage.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"&gt;Thumbnail Image&lt;/MadCap:xref&gt;</ph>.</mrk></seg-source><target
-          state="needs-translation"><mrk
+          state="translated"><mrk
             mtype="seg"
             mid="1"
-            MadCap:segmentStatus="Untranslated"
-            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+            MadCap:segmentStatus="Accepted"
+            MadCap:matchPercent="0">下面是一个交叉引用链接:请参阅。 <ph
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:xref href="ThumbnailImage.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"&gt;Thumbnail Image&lt;/MadCap:xref&gt;</ph></mrk></target><alt-trans
+          mid="1"
+          match-quality="0"
+          origin="MICROSOFT"><seg-source>Here is a cross-reference link: See <ph
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:xref href="ThumbnailImage.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"&gt;Thumbnail Image&lt;/MadCap:xref&gt;</ph>.</seg-source><target
+            MadCap:segmentStatus="Untranslated">下面是一个交叉引用链接:请参阅。 <ph
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:xref href="ThumbnailImage.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"&gt;Thumbnail Image&lt;/MadCap:xref&gt;</ph></target></alt-trans></trans-unit><trans-unit
         id="4"
         restype="x-xml-li"
         phase-name="pretrans"><source>Here is a cross-reference link: See <ph
@@ -86,11 +107,18 @@
             mtype="seg"
             mid="1">Here is a cross-reference link: See <ph
               id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:xref href="Positioned Images.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"&gt;Positioned Images&lt;/MadCap:xref&gt;</ph>.</mrk></seg-source><target
-          state="needs-translation"><mrk
+          state="translated"><mrk
             mtype="seg"
             mid="1"
-            MadCap:segmentStatus="Untranslated"
-            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+            MadCap:segmentStatus="Accepted"
+            MadCap:matchPercent="100">下面是一个交叉引用链接:请参阅。 <ph
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:xref href="Positioned Images.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"&gt;Positioned Images&lt;/MadCap:xref&gt;</ph></mrk></target><alt-trans
+          mid="1"
+          match-quality="0"
+          origin="MICROSOFT"><seg-source>Here is a cross-reference link: See <ph
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:xref href="Positioned Images.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"&gt;Positioned Images&lt;/MadCap:xref&gt;</ph>.</seg-source><target
+            MadCap:segmentStatus="Untranslated">下面是一个交叉引用链接:请参阅。 <ph
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:xref href="Positioned Images.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"&gt;Positioned Images&lt;/MadCap:xref&gt;</ph></target></alt-trans></trans-unit><trans-unit
         id="5"
         restype="x-xml-li"
         phase-name="pretrans"><source>Here is a cross-reference link: See <ph
@@ -98,10 +126,17 @@
             mtype="seg"
             mid="1">Here is a cross-reference link: See <ph
               id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:xref href="ImageWithinList.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"&gt;Image Within List&lt;/MadCap:xref&gt;</ph>.</mrk></seg-source><target
-          state="needs-translation"><mrk
+          state="translated"><mrk
             mtype="seg"
             mid="1"
-            MadCap:segmentStatus="Untranslated"
-            MadCap:matchPercent="0" /></target></trans-unit></body>
+            MadCap:segmentStatus="Accepted"
+            MadCap:matchPercent="100">下面是一个交叉引用链接:请参阅。 <ph
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:xref href="ImageWithinList.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"&gt;Image Within List&lt;/MadCap:xref&gt;</ph></mrk></target><alt-trans
+          mid="1"
+          match-quality="0"
+          origin="MICROSOFT"><seg-source>Here is a cross-reference link: See <ph
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:xref href="ImageWithinList.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"&gt;Image Within List&lt;/MadCap:xref&gt;</ph>.</seg-source><target
+            MadCap:segmentStatus="Untranslated">下面是一个交叉引用链接:请参阅。 <ph
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:xref href="ImageWithinList.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"&gt;Image Within List&lt;/MadCap:xref&gt;</ph></target></alt-trans></trans-unit></body>
   </file>
 </xliff>

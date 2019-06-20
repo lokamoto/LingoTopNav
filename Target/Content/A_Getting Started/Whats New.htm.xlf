@@ -2,7 +2,7 @@
 <xliff
   version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
   xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-strict.xsd" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
-  MadCap:translationStatus="untranslated">
+  MadCap:translationStatus="completed">
   <file
     xml:space="preserve"
     original="Whats New.htm"
@@ -48,11 +48,15 @@
         phase-name="pretrans"><source>What's New</source><seg-source><mrk
             mtype="seg"
             mid="1">What's New</mrk></seg-source><target
-          state="needs-translation"><mrk
+          state="translated"><mrk
             mtype="seg"
             mid="1"
-            MadCap:segmentStatus="Untranslated"
-            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+            MadCap:segmentStatus="Accepted"
+            MadCap:matchPercent="0">新增功能</mrk></target><alt-trans
+          mid="1"
+          match-quality="0"
+          origin="MICROSOFT"><seg-source>What's New</seg-source><target
+            MadCap:segmentStatus="Untranslated">新增功能</target></alt-trans></trans-unit><trans-unit
         id="2"
         restype="x-xml-p"
         phase-name="pretrans"><source>Here are the new features in this version of <ph
@@ -60,11 +64,18 @@
             mtype="seg"
             mid="1">Here are the new features in this version of <ph
               id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="General.ProductName" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph>:</mrk></seg-source><target
-          state="needs-translation"><mrk
+          state="translated"><mrk
             mtype="seg"
             mid="1"
-            MadCap:segmentStatus="Untranslated"
-            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+            MadCap:segmentStatus="Accepted"
+            MadCap:matchPercent="0">以下是此版本的 中的<ph
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="General.ProductName" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph>新功能:</mrk></target><alt-trans
+          mid="1"
+          match-quality="0"
+          origin="MICROSOFT"><seg-source>Here are the new features in this version of <ph
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="General.ProductName" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph>:</seg-source><target
+            MadCap:segmentStatus="Untranslated">以下是此版本的 中的<ph
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="General.ProductName" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph>新功能:</target></alt-trans></trans-unit><trans-unit
         id="3"
         restype="x-xml-li"
         phase-name="pretrans"><source><bpt
@@ -78,19 +89,29 @@
             mid="2"> </mrk><mrk
             mtype="seg"
             mid="3">Replace this with your own content.</mrk></seg-source><target
-          state="needs-translation"><mrk
+          state="translated"><mrk
             mtype="seg"
             mid="1"
-            MadCap:segmentStatus="Untranslated"
-            MadCap:matchPercent="0" /><mrk
+            MadCap:segmentStatus="Accepted"
+            MadCap:matchPercent="0"><bpt
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;span class="SetOffFirstLevel"&gt;</bpt>功能<ept
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/span&gt;</ept>1 以下是功能 1 的一些信息。</mrk><mrk
             mtype="protected"
             mid="2"
             MadCap:segmentStatus="Untranslated"
             MadCap:matchPercent="0" /><mrk
             mtype="seg"
             mid="3"
-            MadCap:segmentStatus="Untranslated"
-            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+            MadCap:segmentStatus="Accepted"
+            MadCap:matchPercent="0">将其替换为您自己的内容。</mrk></target><alt-trans
+          mid="1"
+          match-quality="0"
+          origin="MICROSOFT"><seg-source><bpt
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;span class="SetOffFirstLevel"&gt;</bpt>Feature 1 <ept
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/span&gt;</ept>Here is some information for Feature 1.</seg-source><target
+            MadCap:segmentStatus="Untranslated"><bpt
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;span class="SetOffFirstLevel"&gt;</bpt>功能<ept
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/span&gt;</ept>1 以下是功能 1 的一些信息。</target></alt-trans></trans-unit><trans-unit
         id="4"
         restype="x-xml-li"
         phase-name="pretrans"><source><bpt
@@ -104,19 +125,29 @@
             mid="2"> </mrk><mrk
             mtype="seg"
             mid="3">Replace this with your own content.</mrk></seg-source><target
-          state="needs-translation"><mrk
+          state="translated"><mrk
             mtype="seg"
             mid="1"
-            MadCap:segmentStatus="Untranslated"
-            MadCap:matchPercent="0" /><mrk
+            MadCap:segmentStatus="Accepted"
+            MadCap:matchPercent="0"><bpt
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;span class="SetOffFirstLevel"&gt;</bpt>功能<ept
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/span&gt;</ept>2 以下是功能 2 的一些信息。</mrk><mrk
             mtype="protected"
             mid="2"
             MadCap:segmentStatus="Untranslated"
             MadCap:matchPercent="0" /><mrk
             mtype="seg"
             mid="3"
-            MadCap:segmentStatus="Untranslated"
-            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+            MadCap:segmentStatus="Accepted"
+            MadCap:matchPercent="100">将其替换为您自己的内容。</mrk></target><alt-trans
+          mid="1"
+          match-quality="0"
+          origin="MICROSOFT"><seg-source><bpt
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;span class="SetOffFirstLevel"&gt;</bpt>Feature 2 <ept
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/span&gt;</ept>Here is some information for Feature 2.</seg-source><target
+            MadCap:segmentStatus="Untranslated"><bpt
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;span class="SetOffFirstLevel"&gt;</bpt>功能<ept
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/span&gt;</ept>2 以下是功能 2 的一些信息。</target></alt-trans></trans-unit><trans-unit
         id="5"
         restype="x-xml-li"
         phase-name="pretrans"><source><bpt
@@ -130,19 +161,29 @@
             mid="2"> </mrk><mrk
             mtype="seg"
             mid="3">Replace this with your own content.</mrk></seg-source><target
-          state="needs-translation"><mrk
+          state="translated"><mrk
             mtype="seg"
             mid="1"
-            MadCap:segmentStatus="Untranslated"
-            MadCap:matchPercent="0" /><mrk
+            MadCap:segmentStatus="Accepted"
+            MadCap:matchPercent="0"><bpt
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;span class="SetOffFirstLevel"&gt;</bpt>功能<ept
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/span&gt;</ept>3 以下是功能 3 的一些信息。</mrk><mrk
             mtype="protected"
             mid="2"
             MadCap:segmentStatus="Untranslated"
             MadCap:matchPercent="0" /><mrk
             mtype="seg"
             mid="3"
-            MadCap:segmentStatus="Untranslated"
-            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+            MadCap:segmentStatus="Accepted"
+            MadCap:matchPercent="100">将其替换为您自己的内容。</mrk></target><alt-trans
+          mid="1"
+          match-quality="0"
+          origin="MICROSOFT"><seg-source><bpt
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;span class="SetOffFirstLevel"&gt;</bpt>Feature 3 <ept
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/span&gt;</ept>Here is some information for Feature 3.</seg-source><target
+            MadCap:segmentStatus="Untranslated"><bpt
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;span class="SetOffFirstLevel"&gt;</bpt>功能<ept
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/span&gt;</ept>3 以下是功能 3 的一些信息。</target></alt-trans></trans-unit><trans-unit
         id="6"
         restype="x-xml-li"
         phase-name="pretrans"><source><bpt
@@ -156,19 +197,29 @@
             mid="2"> </mrk><mrk
             mtype="seg"
             mid="3">Replace this with your own content.</mrk></seg-source><target
-          state="needs-translation"><mrk
+          state="translated"><mrk
             mtype="seg"
             mid="1"
-            MadCap:segmentStatus="Untranslated"
-            MadCap:matchPercent="0" /><mrk
+            MadCap:segmentStatus="Accepted"
+            MadCap:matchPercent="0"><bpt
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;span class="SetOffFirstLevel"&gt;</bpt>功能<ept
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/span&gt;</ept>4 以下是功能 4 的一些信息。</mrk><mrk
             mtype="protected"
             mid="2"
             MadCap:segmentStatus="Untranslated"
             MadCap:matchPercent="0" /><mrk
             mtype="seg"
             mid="3"
-            MadCap:segmentStatus="Untranslated"
-            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+            MadCap:segmentStatus="Accepted"
+            MadCap:matchPercent="100">将其替换为您自己的内容。</mrk></target><alt-trans
+          mid="1"
+          match-quality="0"
+          origin="MICROSOFT"><seg-source><bpt
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;span class="SetOffFirstLevel"&gt;</bpt>Feature 4 <ept
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/span&gt;</ept>Here is some information for Feature 4.</seg-source><target
+            MadCap:segmentStatus="Untranslated"><bpt
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;span class="SetOffFirstLevel"&gt;</bpt>功能<ept
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/span&gt;</ept>4 以下是功能 4 的一些信息。</target></alt-trans></trans-unit><trans-unit
         id="7"
         restype="x-xml-li"
         phase-name="pretrans"><source><bpt
@@ -182,19 +233,29 @@
             mid="2"> </mrk><mrk
             mtype="seg"
             mid="3">Replace this with your own content.</mrk></seg-source><target
-          state="needs-translation"><mrk
+          state="translated"><mrk
             mtype="seg"
             mid="1"
-            MadCap:segmentStatus="Untranslated"
-            MadCap:matchPercent="0" /><mrk
+            MadCap:segmentStatus="Accepted"
+            MadCap:matchPercent="0"><bpt
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;span class="SetOffFirstLevel"&gt;</bpt>功能<ept
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/span&gt;</ept>5 以下是功能 5 的一些信息。</mrk><mrk
             mtype="protected"
             mid="2"
             MadCap:segmentStatus="Untranslated"
             MadCap:matchPercent="0" /><mrk
             mtype="seg"
             mid="3"
-            MadCap:segmentStatus="Untranslated"
-            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+            MadCap:segmentStatus="Accepted"
+            MadCap:matchPercent="100">将其替换为您自己的内容。</mrk></target><alt-trans
+          mid="1"
+          match-quality="0"
+          origin="MICROSOFT"><seg-source><bpt
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;span class="SetOffFirstLevel"&gt;</bpt>Feature 5 <ept
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/span&gt;</ept>Here is some information for Feature 5.</seg-source><target
+            MadCap:segmentStatus="Untranslated"><bpt
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;span class="SetOffFirstLevel"&gt;</bpt>功能<ept
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/span&gt;</ept>5 以下是功能 5 的一些信息。</target></alt-trans></trans-unit><trans-unit
         id="8"
         restype="x-xml-li"
         phase-name="pretrans"><source><bpt
@@ -208,19 +269,29 @@
             mid="2"> </mrk><mrk
             mtype="seg"
             mid="3">Replace this with your own content.</mrk></seg-source><target
-          state="needs-translation"><mrk
+          state="translated"><mrk
             mtype="seg"
             mid="1"
-            MadCap:segmentStatus="Untranslated"
-            MadCap:matchPercent="0" /><mrk
+            MadCap:segmentStatus="Accepted"
+            MadCap:matchPercent="0"><bpt
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;span class="SetOffFirstLevel"&gt;</bpt>功能<ept
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/span&gt;</ept>6 以下是功能 6 的一些信息。</mrk><mrk
             mtype="protected"
             mid="2"
             MadCap:segmentStatus="Untranslated"
             MadCap:matchPercent="0" /><mrk
             mtype="seg"
             mid="3"
-            MadCap:segmentStatus="Untranslated"
-            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+            MadCap:segmentStatus="Accepted"
+            MadCap:matchPercent="100">将其替换为您自己的内容。</mrk></target><alt-trans
+          mid="1"
+          match-quality="0"
+          origin="MICROSOFT"><seg-source><bpt
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;span class="SetOffFirstLevel"&gt;</bpt>Feature 6 <ept
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/span&gt;</ept>Here is some information for Feature 6.</seg-source><target
+            MadCap:segmentStatus="Untranslated"><bpt
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;span class="SetOffFirstLevel"&gt;</bpt>功能<ept
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/span&gt;</ept>6 以下是功能 6 的一些信息。</target></alt-trans></trans-unit><trans-unit
         id="9"
         restype="x-xml-li"
         phase-name="pretrans"><source><bpt
@@ -234,18 +305,28 @@
             mid="2"> </mrk><mrk
             mtype="seg"
             mid="3">Replace this with your own content.</mrk></seg-source><target
-          state="needs-translation"><mrk
+          state="translated"><mrk
             mtype="seg"
             mid="1"
-            MadCap:segmentStatus="Untranslated"
-            MadCap:matchPercent="0" /><mrk
+            MadCap:segmentStatus="Accepted"
+            MadCap:matchPercent="0"><bpt
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;span class="SetOffFirstLevel"&gt;</bpt>功能<ept
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/span&gt;</ept>7 以下是功能 7 的一些信息。</mrk><mrk
             mtype="protected"
             mid="2"
             MadCap:segmentStatus="Untranslated"
             MadCap:matchPercent="0" /><mrk
             mtype="seg"
             mid="3"
-            MadCap:segmentStatus="Untranslated"
-            MadCap:matchPercent="0" /></target></trans-unit></body>
+            MadCap:segmentStatus="Accepted"
+            MadCap:matchPercent="100">将其替换为您自己的内容。</mrk></target><alt-trans
+          mid="1"
+          match-quality="0"
+          origin="MICROSOFT"><seg-source><bpt
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;span class="SetOffFirstLevel"&gt;</bpt>Feature 7 <ept
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/span&gt;</ept>Here is some information for Feature 7.</seg-source><target
+            MadCap:segmentStatus="Untranslated"><bpt
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;span class="SetOffFirstLevel"&gt;</bpt>功能<ept
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/span&gt;</ept>7 以下是功能 7 的一些信息。</target></alt-trans></trans-unit></body>
   </file>
 </xliff>
